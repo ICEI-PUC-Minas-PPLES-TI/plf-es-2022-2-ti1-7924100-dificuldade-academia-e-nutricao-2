@@ -165,6 +165,38 @@ As personas levantadas durante o processo de entendimento do problema são apres
 > 
 > **Exemplo de Persona**
 > 
+ 
+Vinícius Librelato
+	Idade: 20
+Ocupação: desempregado	Aplicativos:
+●	Cuidar da saúde mental e física 
+●	Ter um bom porte físico
+
+ 	Frustrações
+●	Preços de comidas saudáveis são consideravelmente maiores
+●	Crise financeira 
+●	Falta de motivação
+●	Medo de não ter resultado	Hobbies
+●	Ler livros e quadrinhos
+●	Jogar video games
+
+
+
+ 
+Rafaela Batista Mendonça Javarotti
+	Idade: 20
+Ocupação: desempregada 	Objetivos físicos:
+●	Emagrecer
+●	Moldar o corpo de uma forma mais confortável
+
+
+	Frustrações
+●	Dificuldade financeira
+●	Disforia de gênero 
+●	Não saber cozinhar
+●	Não controlar bem o que come	Hobbies
+●	Ler e escrever livros
+
 > ![Exemplo de Persona](imaages/../images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
