@@ -1,21 +1,18 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+BeHealthy
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Engenharia de Software
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Lucas Hemétrio
+- Paulo Artur Martins da Silva
+- João Arthur
+- Henrique
 
 # Estrutura do Documento
 
@@ -239,50 +236,30 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+A interface foi desenvolvida para manter uma aparência simples e fácil de usar.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+![userflowBeHealthy](https://user-images.githubusercontent.com/63072372/192672258-2b4dbc2a-665d-41f8-b10d-45c3e5e1e858.png)
 
 ## Wireframes
+Home
+![Home](https://user-images.githubusercontent.com/63072372/192672432-8ddb626f-dfcf-4397-9850-88ae0ab846b7.png)
+Tela de Login
+![login](https://user-images.githubusercontent.com/63072372/192672471-c04a240a-52cf-4dc5-9640-e089191eeba9.png)
+Tela de criação de contas
+![criarconta](https://user-images.githubusercontent.com/63072372/192672518-827787ac-20ca-463c-9e88-6243910a6483.png)
+Tela com lista de fichas
+![listafichas](https://user-images.githubusercontent.com/63072372/192672559-68629dac-d38b-495e-a6ff-c7f27362887e.png)
+Tela com exercícios de uma ficha
+![exficha](https://user-images.githubusercontent.com/63072372/192672606-82b01059-91da-443f-90ba-5faeace8bc1c.png)
+Tela com lista de dietas
+![listadietas](https://user-images.githubusercontent.com/63072372/192672632-9ce6f55e-c9db-4ce5-8225-ab22e8018b4b.png)
+Tela com o plano de uma dieta
+![planodieta1](https://user-images.githubusercontent.com/63072372/192672689-83dd5cba-8d54-43e2-8279-95b4a0a34bc2.png)
+Tela com receitas
+![receitas](https://user-images.githubusercontent.com/63072372/192672715-70aa75ef-e840-41a5-966f-90780af5c73e.png)
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
