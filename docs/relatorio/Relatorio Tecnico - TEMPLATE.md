@@ -310,12 +310,12 @@ Tela com receitas
 
 O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis será a seguinte:
 
-|Membro         | Função                        |
-|---------------|-------------------------------|
-|Henrique       | Desenvolvedor                 |
-|João Arthur    | Desenvolvedor                 |
-|Lucas Hemétrio | Desenvolvedor e Scrum Master  |
-|Paulo Artur    | Desenvolvedor e Product Owner |
+|Membro                | Função                        |
+|----------------------|-------------------------------|
+|Henrique Mascarennhas | Desenvolvedor                 |
+|João Arthur           | Desenvolvedor                 |
+|Lucas Hemétrio        | Desenvolvedor e Scrum Master  |
+|Paulo Artur           | Desenvolvedor e Product Owner |
 
 
 
