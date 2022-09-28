@@ -9,10 +9,10 @@ Engenharia de Software
 
 ## Participantes
 
+- Henrique Mascarenhas
+- João Arthur
 - Lucas Hemétrio
 - Paulo Artur Martins da Silva
-- João Arthur
-- Henrique
 
 # Estrutura do Documento
 
