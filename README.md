@@ -7,7 +7,7 @@ O objetivo do trabalho é criar um site acessível para um grande número de pes
 * Lucas Hemétrio Teixeira
 * Paulo Artur Martins da Silva
 * João Arthur
-* Nome completo do aluno 4
+* Henrique
 
 ## Professores responsáveis
 
