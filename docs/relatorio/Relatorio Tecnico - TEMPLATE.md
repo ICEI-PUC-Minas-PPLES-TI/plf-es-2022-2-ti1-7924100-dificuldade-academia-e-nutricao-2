@@ -442,7 +442,7 @@ Tela com receitas
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+●	Diretrizes da OMS para atividade física e comportamento sedentário: num piscar de olhos. Prof. Dra. Edina Maria de Camargo e Prof. Dr. Ciro Romelio Rodriguez Añez, 2020.
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
