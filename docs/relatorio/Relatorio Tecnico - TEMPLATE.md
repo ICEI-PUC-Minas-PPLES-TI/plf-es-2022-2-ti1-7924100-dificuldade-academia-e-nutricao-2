@@ -165,7 +165,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 > 
 > **Exemplo de Persona**
 > 
-[ ![alt text](http://url/to/img.png)](https://i.imgur.com/ETRoc9R.png)
+![personas1](https://user-images.githubusercontent.com/63072372/192752563-19d51f7b-b1f0-494e-a883-c44789e13655.png)
+
 
 
 > 
@@ -178,7 +179,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-[blob:https://imgur.com/c73f0cc6-8498-4cfc-8f41-fe97db3eb709](https://i.imgur.com/id5vPbB.png)
+![personas](https://user-images.githubusercontent.com/63072372/192752321-99d1cbb4-fc43-4cc3-9dc3-28aef50578eb.png)
 
 
 
