@@ -4,10 +4,10 @@ O objetivo do trabalho é criar um site acessível para um grande número de pes
 
 ## Alunos integrantes da equipe
 
+* Henrique Mascarenhas
+* João Arthur
 * Lucas Hemétrio Teixeira
 * Paulo Artur Martins da Silva
-* João Arthur
-* Henrique
 
 ## Professores responsáveis
 
