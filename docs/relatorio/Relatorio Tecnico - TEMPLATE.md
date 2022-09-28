@@ -308,13 +308,15 @@ Tela com receitas
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis será a seguinte:
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+|Membro         | Função                        |
+|---------------|-------------------------------|
+|Henrique       | Desenvolvedor                 |
+|João Arthur    | Desenvolvedor                 |
+|Lucas Hemétrio | Desenvolvedor e Scrum Master  |
+|Paulo Artur    | Desenvolvedor e Product Owner |
+
 
 
 ## Ferramentas
@@ -323,10 +325,10 @@ Tela com receitas
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPTchm2M=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7924100-dificuldade-academia-e-nutricao-2 | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | Figma | https://www.figma.com/proto/vS6gHbUQjrExaSV6ku3N2f/BeHealthy?node-id=1%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A8 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
