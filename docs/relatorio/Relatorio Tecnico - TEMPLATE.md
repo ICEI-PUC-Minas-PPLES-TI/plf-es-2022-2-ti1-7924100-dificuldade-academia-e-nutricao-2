@@ -50,10 +50,14 @@ Engenharia de Software
 
 
 # Introdução
+O bom cuidado com a alimentação apropriada e exercícios físicos sempre deve ser uma prioridade para qualquer pessoa, para ter uma boa saúde e viver bem. 
+
+Em paralelo, tem-se observado que conforme as evoluções tecnológicas e maiores comodismos e consumo de comidas rápidas e fáceis, além de crises financeiras. Muitas pessoas têm falta de exercícios apropriados e alimentação saudável para um bom condicionamento físico.
+
+Diante disso, torna-se fundamental a existência de mais formas para incentivar a nutrição e exercícios de maneira fácil e acessível, para mais pessoas poderem ter acesso a instruções para melhorar a saúde ou porte físico desejado
 
 ## Problema
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Como foi dito, o problema que se procura resolver é que muitas pessoas tem dificuldades ou difícil acesso, a informação e instrução de forma fácil a alimentação saudável e exercícios físicos adequados, prejudicando a autoestima e saúde.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -73,7 +77,12 @@ Engenharia de Software
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do trabalho é criar um site acessível para um grande número de pessoas e fácil de navegar e entender, fornecendo instruções adequadas para um condicionamento físico saudável.
+
+Temos objetivos principais como:
+●	Fornecer instruções adequadas de exercícios para se seguir, conforme o objetivo individual da pessoa. 
+●	Divulgar receitas e dicas para uma dieta adequada para o interesse do usuário.
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -86,7 +95,10 @@ Engenharia de Software
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Em um artigo da OMS (Organização Mundial de Saúde), realizado em 2020, quatro a cinco milhões de mortes por ano poderiam ser evitadas se a população global fosse mais fisicamente ativa. 
+
+Com ações e investimentos em políticas para promover a atividade física e reduzir o comportamento sedentário podem ajudar a alcançar os Objetivos de Desenvolvimento Sustentável (ODS) e garantir um futuro melhor. 
+
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -102,7 +114,10 @@ Engenharia de Software
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Todas as pessoas serão beneficiadas com esse trabalho, porém nós nos focamos nas pessoas mais jovens que podem prejudicar seu desenvolvimento por seu sedentarismo mais elevado e estão perdidas ou sem acesso á informações sobre saúde adequadas.
+
+Com isso em mente, nosso público alvo são pessoas de qualquer gênero jovens entre 16-30 anos, que tem baixa autoestima, procuram uma saúde melhor ou corpo com que sintam mais confortáveis para ajuda-los a cumprir seus objetivos. 
+
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -121,15 +136,15 @@ Engenharia de Software
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidados por meio de entrevistas com pessoas cujo possuíam ambição para praticar exercícios ou ter uma alimentação saudável, porém possuem dificuldade para se realizar isso. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
-## Personas e Mapas de Empatia
+## Personas 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
