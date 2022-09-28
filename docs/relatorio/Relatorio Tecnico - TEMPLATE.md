@@ -165,7 +165,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 > 
 > **Exemplo de Persona**
 > 
- ![alt text]([http://url](https://i.imgur.com/ETRoc9R.png)/to/img.png)
+ !([http://url](https://i.imgur.com/ETRoc9R.png)/to/img.png)
 
 
 > 
@@ -175,11 +175,20 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+
+Eu como …  [PERSONA]	… quero/desejo … 
+[O QUE]	… para ....
+[POR QUE]
+Vinícius Librelato	Métodos de alimentação saudável com baixo custo e fácil preparo	Pois se não torna difícil levar uma rotina de alimentação saudável
+Rafaela Batista	Iniciar um treino em casa	Não tem condições para academia
+Rafaela Batista	Controlar melhor o que come e de forma mais saudável 	Não sabe cozinhar e acaba ficando refém do que aparece
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Vinícius Librelato | Métodos de alimentação saudável com baixo custo e fácil preparo           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
