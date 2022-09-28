@@ -165,7 +165,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 > 
 > **Exemplo de Persona**
 > 
- !([http://url](https://i.imgur.com/ETRoc9R.png)/to/img.png)
+[ ![alt text](http://url/to/img.png)](https://i.imgur.com/ETRoc9R.png)
 
 
 > 
@@ -178,18 +178,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-Eu como …  [PERSONA]	… quero/desejo … 
-[O QUE]	… para ....
-[POR QUE]
-Vinícius Librelato	Métodos de alimentação saudável com baixo custo e fácil preparo	Pois se não torna difícil levar uma rotina de alimentação saudável
-Rafaela Batista	Iniciar um treino em casa	Não tem condições para academia
-Rafaela Batista	Controlar melhor o que come e de forma mais saudável 	Não sabe cozinhar e acaba ficando refém do que aparece
+[blob:https://imgur.com/c73f0cc6-8498-4cfc-8f41-fe97db3eb709](https://i.imgur.com/id5vPbB.png)
 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Vinícius Librelato | Métodos de alimentação saudável com baixo custo e fácil preparo           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -204,22 +195,27 @@ Rafaela Batista	Controlar melhor o que come e de forma mais saudável 	Não sabe
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve ensinar receitas saudáveis rápidas e práticas | ALTA | 
+|RF-002| O site deve mostrar para as pessoas exercícios de calistenia   | ALTA |
+|RF-003| O site deve mostrar para as pessoas pra que serve cada tipo de alimento e explicar a sua importância pra o corpo | ALTA | 
+|RF-004| O site deve ajudar as pessoas que possuem academias em seu prédio ou condomínio, mas não sabem qual exercício fazer   | MÉDIA |
+|RF-005| O site deve ensinar para as pessoas como fazer musculação com objetos caseiros | MÉDIA| 
+|RF-006| O site deve ensinar para pessoas como fazer exercício ao ar livre  | MÉDIA |
+|RF-007| O site deve mostrar receitas saudáveis com baixo custo   | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);  | ALTA | 
+|RNF-002| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
