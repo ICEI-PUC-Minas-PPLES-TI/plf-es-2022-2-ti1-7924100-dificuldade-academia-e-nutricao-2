@@ -202,13 +202,17 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve ensinar receitas saudáveis rápidas e práticas | ALTA | 
-|RF-002| O site deve mostrar para as pessoas exercícios de calistenia   | ALTA |
-|RF-003| O site deve mostrar para as pessoas pra que serve cada tipo de alimento e explicar a sua importância pra o corpo | ALTA | 
-|RF-004| O site deve ajudar as pessoas que possuem academias em seu prédio ou condomínio, mas não sabem qual exercício fazer   | MÉDIA |
-|RF-005| O site deve ensinar para as pessoas como fazer musculação com objetos caseiros | MÉDIA| 
-|RF-006| O site deve ensinar para pessoas como fazer exercício ao ar livre  | MÉDIA |
-|RF-007| O site deve mostrar receitas saudáveis com baixo custo   | MÉDIA |
+|RF-001| O site deve mostrar pagina principal de planos de dieta | ALTA |
+|RF-002| O site deve mostrar os alimentos de cada plano de dieta | ALTA |
+|RF-003| O site deve mostrar a pagina principal de exercicios fichas | ALTA |
+|RF-004| O site deve mostrar os exercícios de cada ficha e explica-los | ALTA |
+|RF-005| O site deve mostrar pra que serve cada tipo de alimento e explicar a sua importância pra o corpo | ALTA | 
+|RF-006| Criar uma agenda para anotar o progresso | ALTA | 
+|RF-007| O site deve ensinar receitas saudáveis rápidas, práticas e barata | MÉDIA |
+|RF-008| Favoritar os Exercicios | MÉDIA | 
+|RF-009| Corpo humano interativo | MÉDIA |
+
+
 
 
 ### Requisitos não Funcionais
