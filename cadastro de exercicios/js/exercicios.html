@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Exercício</title>
+    <link rel="stylesheet" href="css/cadastro.css">
+</head>
+<body>
+    <div id="main-container">
+        <h1>cadastre o exercício</h1>
+        <form id="register-form">
+            <div class="full-box">
+                <label for="autor"></label>
+                <input type="autor" name="autor" id="autor" placeholder="digite o autor"></input>
+            </div>
+            <div class="half-box">
+                <label for="musculo spacing">regiao muscular</label>
+                <input type="text" name="musculo" id="musculo" placeholder="digite a regiao muscular"></input>
+            </div>
+            <div class="half-box">
+                <label for="objetivo">objetivo</label>
+                <input type="text" name="objetivo" id="objetivo" placeholder="digite o objetivo"></input>
+            </div>
+            <div class="half-box spacing">
+                <label for="equipamento">equipamento</label>
+                <input type="text" name="equipamento" id="equipamento" placeholder="digite o equipamento"></input>
+            </div>
+            <div class="half-box">
+                <label for="link">link</label>
+                <input type="text" name="link" id="link" placeholder="digite o link"></input>
+            </div>
+            <div class="full-box">
+                <input type="submit" id="btn-submit" value="register"></input>
+                </div>
+        </form>
+    </div>
+    <p class="error-validation templete">
+    </p>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
