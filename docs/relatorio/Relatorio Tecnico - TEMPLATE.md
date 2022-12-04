@@ -358,10 +358,10 @@ Alguns testes foram realizados para ver se o site está funcionando corretamente
 
 ## Plano de Testes
 
-> |ID|Cenário Analisado|Requisito de referência|
-> |1| Fazer o login no site e mostrar a página principal de exercícios e dieta, com video, título e descrição| RF-003 e RF-001 |
-> |2| Fazer o login, ir na página geral de exercícios e clicar em "Favoritar". Após isso deve clicar em "Olá,..." para ver o perfil do usúario com suas infromações e videos favoritados| RF-008 |
-> |3| Fazer o login, clicar em "Adicionar" e fazer o cadastro do conteúdo desejado. Após isso ver se está aparecendo no página principal|RF-005 e RF-003| 
+|ID |Cenário Analisado     |Requisito de referência|
+|1  | Fazer o login no site e mostrar a página principal de exercícios e dieta, com video, título e descrição| RF-003 e RF-001 |
+|2  | Fazer o login, ir na página geral de exercícios e clicar em "Favoritar". Após isso deve clicar em "Olá,..." para ver o perfil do usúario com suas infromações e videos favoritados| RF-008 |
+|3  | Fazer o login, clicar em "Adicionar" e fazer o cadastro do conteúdo desejado. Após isso ver se está aparecendo no página principal| RF-005 e RF-003 | 
       
 
 
