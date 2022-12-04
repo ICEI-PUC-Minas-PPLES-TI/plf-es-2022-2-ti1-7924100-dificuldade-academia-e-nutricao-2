@@ -344,7 +344,7 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 ## Tecnologias Utilizadas e Arquitetura
 
 > Para a criação do site foi usada somente tecnologia de front-end: HTML, CSS3, e JavaScript.
-> O site foi hospedado no Replit, que foi suficiente para o grupo e tambemd devido a sua simplicidade. Link do site https://BeHealthy.lucashemetrio.repl.co
+> O site foi hospedado no Replit, que foi suficiente para o grupo e tambemd devido a sua simplicidade. (Link do site https://BeHealthy.lucashemetrio.repl.co).
 > Como repositorio para os dados está sendo usado somento o Local Storage do navegador.
 > Não foi usada nenhuma API no site. Todo o conteúdo vem de pessoas que, como nós, querem trazer algum conhecimento sobre saúde física de forma gratuita
 
