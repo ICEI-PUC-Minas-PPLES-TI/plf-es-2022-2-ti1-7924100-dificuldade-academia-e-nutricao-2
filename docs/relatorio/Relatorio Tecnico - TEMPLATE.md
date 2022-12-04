@@ -338,59 +338,38 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 
 # Projeto da Solução
 
-A solução foi desenvolvida ao longo de 3 meses com encontros uma vez na semana com nossos responsáveis. 
-O grupo tentou manter o mais próximo possível do protótipo original. Seguem mais alguns detalhes sobre o desenvolvimento do projeto
+> A solução foi desenvolvida ao longo de 3 meses com encontros uma vez na semana com nossos responsáveis. 
+> O grupo tentou manter o mais próximo possível do protótipo original. Seguem mais alguns detalhes sobre o desenvolvimento do projeto
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas e Arquitetura
 
-Para a criação do site foi usada somente tecnologia de front-end: HTML, CSS3, e JavaScript.
-O site foi hospedado no Replit, que foi suficiente para o grupo e tambemd devido a sua simplicidade. Link do site https://BeHealthy.lucashemetrio.repl.co
-Como repositorio para os dados está sendo usado somento o Local Storage do navegador.
+> Para a criação do site foi usada somente tecnologia de front-end: HTML, CSS3, e JavaScript.
+> O site foi hospedado no Replit, que foi suficiente para o grupo e tambemd devido a sua simplicidade. Link do site https://BeHealthy.lucashemetrio.repl.co
+> Como repositorio para os dados está sendo usado somento o Local Storage do navegador.
+> Não foi usada nenhuma API no site. Todo o conteúdo vem de pessoas que, como nós, querem trazer algum conhecimento sobre saúde física de forma gratuita
 
-## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+ 
+>![image](https://user-images.githubusercontent.com/63072372/205510579-4a519fb8-d74e-46a0-ba55-55997d714de1.png)
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Alguns testes foram realizados para ver se o site está funcionando corretamente
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
+> |ID|Cenário Analisado|Requisito de referência|
+> |1| Fazer o login no site e mostrar a página principal de exercícios e dieta, com video, título e descrição| RF-003 e RF-001 |
+> |2| Fazer o login, ir na página geral de exercícios e clicar em "Favoritar". Após isso deve clicar em "Olá,..." para ver o perfil do usúario com suas infromações e videos favoritados| RF-008 |
+> |3| Fazer o login, clicar em "Adicionar" e fazer o cadastro do conteúdo desejado. Após isso ver se está aparecendo no página principal|RF-005 e RF-003| 
+      
 
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+> Os testes foram feitos pelos próprios integrantes do grupo de desenvolvimento.
+> Ainda há muito a ser feito para um software de alta qualidade.
+> Apesar dos funcionamentos básicos estarem funcionando corretamente, o software como um todo deve ser revisado para evitar erros e obter uma maior fluidez para o usuário.
 
 
 # Referências
