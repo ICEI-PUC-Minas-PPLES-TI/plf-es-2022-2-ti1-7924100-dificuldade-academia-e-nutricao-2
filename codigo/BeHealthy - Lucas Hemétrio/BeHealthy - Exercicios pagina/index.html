@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>BeHealthy</title>
+</head>
+
+<body onload="imprimeDados()">
+    <header>
+        <h1>BeHealthy</h1>
+        <ul id="menu">
+            <li><h3><a href="">Exercícios</a></h3></li>
+            <li><h3><a href="">Alimentação</a></h3></li>
+        </ul>
+        <nav>
+            <h3 id="perfil"><a href="">Olá, Usuário</a></h3>
+        </nav>
+    </header>
+
+    <section class="filtros">
+        <div id="musculodrop">
+            <button id="musculobnt">Musculo</button>
+            <div id="musculos">
+                <p>Peito</p>
+                <p>Perna</p>
+                <p>Biceps</p>
+            </div>
+        </div>
+        <div id="equipdrop"> 
+            <button id="equipamentosbnt">Equipamentos</button>
+            <div id="equips">
+                <p>Nenhum</p>
+                <p>Halter</p>
+                <p>Maquina</p>
+            </div>
+        </div>
+        <div id="objetivodrop">
+            <button id="objetivobnt">Objetivo</button>
+            <div id="objetivos">
+                <p>Desenvolvimento</p>
+                <p>Fortalecimento</p>
+                <p>Emagrecimento</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="conteudo" id="conteudosDisplay"></div>
+    </section>
+    
+    <footer>
+        <h3>BeHealthy</h3>
+        <p>Copyright 2022 - Trabalho Interdisciplinar de Aplicações Web - <b>ICEI PUC Minas</b></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>

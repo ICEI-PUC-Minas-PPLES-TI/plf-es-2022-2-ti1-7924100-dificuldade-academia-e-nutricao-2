@@ -1,0 +1,155 @@
+
+
+body{
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+    justify-content:space-between;
+    background-color: orange;
+    height: 65px;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+
+#musculos, #equips, #objetivos{
+    display: none;
+}
+
+#musculos p{
+    text-decoration: none;
+    display: block;
+}
+
+#musculodrop:hover #musculos{
+    display: block;
+}
+
+#menu{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+#equips p{
+    text-decoration: none;
+    display: block;
+}
+
+#equipdrop:hover #equips{
+    display: block;
+}
+
+#objetivos p{
+    text-decoration: none;
+    display: block;
+}
+
+#objetivodrop:hover #objetivos{
+    display: block;
+}
+
+
+.conteudo{
+    
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(234, 234, 234);
+    border: solid orange;
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 20px ;
+    margin-inline: auto;
+    width: min(95%, 1200px);
+    border-bottom: none;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.posts{
+    display: flex;
+    gap: 40px;
+    padding: 20px ;
+    border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+.headpost{
+    display: flex;
+    justify-content: space-between;
+}
+.fav{
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    cursor: pointer;
+    border-style: none;
+    background-color: orange;
+    font-weight: bold;
+}
+.fav:hover{
+    background-color: aliceblue;
+    
+}
+
+.texto{
+    max-width: 400px;
+}
+
+.filtros{
+    display: flex;
+    padding-top: 40px;
+    justify-content: center;
+    gap: 3%;
+    
+}
+
+.filtros button{
+    height: 40px;
+    width: 150px;
+    font-size:medium;
+    border-radius: 10px;
+    border-style: none;
+}
+
+footer{
+    
+    padding: 1px;
+    text-align: center;
+    background-color: orange;
+    
+}
+@media(width < 900px){
+    
+    .favoritos{
+        gap: 15px;
+        padding: 30px 0px;
+        
+    }
+    .texto{
+        width: 88%;
+    }
+    .posts{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+}
+
+@media(width < 620px){
+    iframe{
+        width: 400px;
+        height: 225px;
+    }
+    .posts{
+        gap: 5px;
+    }
+}
+
+#bntFav:

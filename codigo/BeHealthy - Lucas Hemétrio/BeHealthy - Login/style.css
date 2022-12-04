@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+header{
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+    justify-content:space-between;
+    background-color: orange;
+    height: 65px;
+    
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+
+
+#login-box{
+    background-color: rgb(234, 234, 234);
+    border: solid orange;
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 15px ;
+    padding-top: 30px;
+    margin-inline: auto;
+    width: min(95%, 600px);
+    display: grid;
+    justify-content: center;
+    gap: 15px;
+    font-size: large;
+}

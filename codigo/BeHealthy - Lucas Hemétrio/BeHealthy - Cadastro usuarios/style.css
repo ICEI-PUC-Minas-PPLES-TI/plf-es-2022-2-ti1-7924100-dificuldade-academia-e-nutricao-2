@@ -1,0 +1,70 @@
+label {
+    font-weight: bolder;
+}
+
+ h1 {
+     text-align: center;
+ }
+
+ #grid-contatos tbody {
+     cursor: pointer;
+ }
+
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+    justify-content:space-between;
+    background-color: orange;
+    height: 65px;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+
+#menu{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+
+.container{
+    padding-top: 15px;
+    padding-bottom: none;
+}
+
+#form-contato{
+    background-color: rgb(234, 234, 234);
+    border: solid orange;
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 20px ;
+    padding-top: 30px;
+    margin-inline: auto;
+    width: min(95%, 600px);
+    display: grid;
+    justify-content: center;
+    gap: 15px;
+    font-size: large;
+}
+
+#criarC{
+    display: grid;
+    justify-content: center;
+    padding: 20px;
+}
+
+#btnInsert{
+    font-size: x-large;
+    border-radius: 5px;
+    border-color: orange;
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
