@@ -1,11 +1,7 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
-
 BeHealthy
 
-`CURSO` 
-
-Engenharia de Software
+Engenharia de Software - PUC Minas
 
 ## Participantes
 
@@ -210,7 +206,6 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-006| Criar uma agenda para anotar o progresso | ALTA | 
 |RF-007| O site deve ensinar receitas saudáveis rápidas, práticas e barata | MÉDIA |
 |RF-008| Favoritar os Exercicios | MÉDIA | 
-|RF-009| Corpo humano interativo | MÉDIA |
 
 
 
@@ -294,11 +289,7 @@ Tela com receitas
 
 O método usado pelo grupo para a concepção do porjeto foi o Design Thinking para a análise do problema abordado pelo grupo e criar possiveis soluções. Para o desenvolvimento do projeto o metodo Scrum por sua divisão em pequenos ciclos de trabalho, as Sprints.
 > 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 
 ## Divisão de Papéis
 
@@ -321,7 +312,7 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPTchm2M=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7924100-dificuldade-academia-e-nutricao-2 | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | Replit |  https://BeHealthy.lucashemetrio.repl.co | 
 |Protótipo Interativo | Figma | https://www.figma.com/proto/vS6gHbUQjrExaSV6ku3N2f/BeHealthy?node-id=1%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A8 | 
 
 >
@@ -341,70 +332,20 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
 > 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
-## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-# **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A solução foi desenvolvida ao longo de 3 meses com encontros uma vez na semana com nossos responsáveis. 
+O grupo tentou manter o mais próximo possível do protótipo original. Seguem mais alguns detalhes sobre o desenvolvimento do projeto
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Para a criação do site foi usada somente tecnologia de front-end: HTML, CSS3, e JavaScript.
+O site foi hospedado no Replit, que foi suficiente para o grupo e tambemd devido a sua simplicidade. Link do site https://BeHealthy.lucashemetrio.repl.co
+Como repositorio para os dados está sendo usado somento o Local Storage do navegador.
 
 ## Arquitetura da solução
 
@@ -440,15 +381,7 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
@@ -464,9 +397,4 @@ O grupo optou por usar o método Scrum. Tendo isso em mente a divisão de papeis
 
 ●	Diretrizes da OMS para atividade física e comportamento sedentário: num piscar de olhos. Prof. Dra. Edina Maria de Camargo e Prof. Dr. Ciro Romelio Rodriguez Añez, 2020.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+
