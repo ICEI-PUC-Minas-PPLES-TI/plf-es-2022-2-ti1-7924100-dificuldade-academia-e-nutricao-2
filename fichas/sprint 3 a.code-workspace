@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "sprint 3",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "sprint 3"
+	}
+}
