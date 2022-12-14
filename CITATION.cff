@@ -1,31 +1,29 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: 03 - Dificuldade Academia e Nutrição 2 (BeHealthy)
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Monteiro Pajaro
+    given-names: João Arthur 
+  - family-names: Hemétrio Teixeira
+    given-names: Lucas
+  - family-names: Martins da Silva
+    given-names: Paulo Artur 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Lara Soares
+    given-names: Felipe Augusto
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Dias Ferreira da Rocha
+    given-names: Roberto Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - academia
+  - nutricao
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7924100-dificuldade-academia-e-nutricao-2
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2022-12-14 
